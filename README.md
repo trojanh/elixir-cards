@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+This is a demo application which can create deck of cards, shuffle them, save the deck to file or open it from file and can also create a hand of given size. 
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
-
